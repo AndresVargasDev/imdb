@@ -17,9 +17,7 @@ export default function RootLayout({ children }) {
           <Header />
           {/* NavBar  */}
           <Navbar />
-
           {/* SearchBox */}
-
           {children}
         </Providers>
       </body>
